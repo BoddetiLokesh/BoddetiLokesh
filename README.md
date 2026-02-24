@@ -1,6 +1,5 @@
 # Hi 👋, I'm LOKESH BODDETI
 
----
 
 ## 📌 About me
 
