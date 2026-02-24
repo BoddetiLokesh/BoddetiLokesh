@@ -1,5 +1,7 @@
 # Hi 👋, I'm LOKESH BODDETI
 
+---
+
 ## 📌 About me
 
 Hey there! I'm **Lokesh**, a final-year **Computer Science & Engineering** student from India and **a passionate Full-Stack Developer**.
@@ -43,10 +45,10 @@ This README is my playground to showcase my journey, skills, and aspirations. Le
 
 ## 📬 Connect with Me:
 
-- 📧 **Email:** (mailto:lokeshboddeti2004@gmail.com)[lokeshboddeti@gmail.com]
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/lokesh-boddeti)[LOKESH BODDETI]
-- 🎥 **YouTube:** (https://www.youtube.com)[Lokesh-YT]
-- 🏗️ **GitHub:** (https://github.com/BoddetiLokesh)[Lokesh-boddeti]
+- 📧 **Email:** [lokeshboddeti@gmail.com](mailto:lokeshboddeti2004@gmail.com)
+- 💼 **LinkedIn:** [LOKESH BODDETI](https://www.linkedin.com/in/lokesh-boddeti)
+- 🎥 **YouTube:** [Lokesh-YT](https://www.youtube.com)
+- 🏗️ **GitHub:** [Lokesh-boddeti](https://github.com/BoddetiLokesh)
 
 ---
 
