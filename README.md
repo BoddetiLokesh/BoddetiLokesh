@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Lokesh
+# 👋 Hi, I'm Lokesh Boddeti
 
 ### Aspiring AI/ML Engineer | Python | SQL | Machine Learning | Deep Learning | Generative AI
 
 I’m a Computer Science & Engineering graduate focused on building practical skills in **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**.
 
-I enjoy turning data and ideas into practical solutions and am currently strengthening my expertise through hands-on projects, problem solving, and continuous learning.
+I enjoy turning data and ideas into practical solutions and continuously improve my skills through **hands-on projects, problem solving, and consistent learning**.
 
 ---
 
@@ -12,58 +12,79 @@ I enjoy turning data and ideas into practical solutions and am currently strengt
 
 * 🎓 Computer Science & Engineering Graduate
 * 🤖 Aspiring **AI/ML Engineer**
-* 🐍 Strong focus on **Python**
+* 🐍 Focused on **Python programming**
 * 📊 Learning and applying **SQL & Data Analysis**
-* 🤖 Building knowledge in **Machine Learning & Deep Learning**
+* 🤖 Building skills in **Machine Learning & Deep Learning**
 * 🧠 Exploring **NLP, Generative AI, LLMs & RAG**
-* 💻 Interested in developing practical, real-world AI applications
-* 🚀 Actively building projects and expanding my technical portfolio
+* 💻 Interested in building practical, real-world AI applications
+* 🚀 Continuously building projects and strengthening my technical portfolio
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**
+### 💻 Programming
 
 `Python` `SQL`
 
-**Data Science**
+### 📊 Data Science
 
 `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-**Machine Learning**
+### 🤖 Machine Learning
 
-`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `Model Evaluation`
+`Scikit-learn` `Supervised Learning` `Unsupervised Learning` `Feature Engineering` `Model Evaluation`
 
-**Deep Learning**
+### 🧠 Deep Learning
 
-`TensorFlow` `Neural Networks`
+`TensorFlow` `Neural Networks` `Deep Learning Fundamentals`
 
-**AI**
+### ✨ Artificial Intelligence
 
 `NLP` `Generative AI` `LLMs` `RAG`
 
-**Tools**
+### 🗄️ Database
 
-`Git` `GitHub` `Jupyter Notebook` `VS Code`
+`MySQL`
+
+### 🔧 Tools & Development
+
+`Git` `GitHub` `Jupyter Notebook` `Google Colab` `VS Code` `MySQL Workbench`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📊 Data Analysis Projects
+### 📊 Data Analysis & SQL Projects
 
-Projects focused on data cleaning, exploratory data analysis, SQL queries, visualization, and extracting meaningful insights from datasets.
+Projects focused on **data cleaning, exploratory data analysis, SQL querying, data visualization, and extracting meaningful insights from datasets**.
+
+> 🚧 Projects are currently being developed and will be added here.
 
 ### 🤖 Machine Learning Projects
 
-Practical machine learning projects covering data preprocessing, feature engineering, model training, evaluation, and prediction.
+Hands-on projects covering the machine learning workflow, including:
+
+* Data preprocessing
+* Exploratory Data Analysis
+* Feature engineering
+* Model training
+* Model evaluation
+* Prediction
+
+> 🚧 Projects are currently being developed and will be added here.
 
 ### 🧠 AI & Generative AI Projects
 
-Projects exploring NLP, LLMs, RAG, and AI-powered applications.
+Projects exploring modern AI technologies, including:
 
-> 🚧 More projects are currently in development.
+* Natural Language Processing
+* Large Language Models
+* Retrieval-Augmented Generation
+* Generative AI applications
+* AI-powered solutions
+
+> 🚧 Projects will be added as they are completed.
 
 ---
 
@@ -89,37 +110,49 @@ AI/ML Engineering
 
 ---
 
-## 📌 What I'm Looking For
+## 🎯 Career Goals
 
-I'm interested in opportunities where I can:
+I’m working toward becoming an **AI/ML Engineer** by:
 
-* Build real-world AI/ML solutions
-* Work with data and machine learning models
-* Learn from experienced engineering teams
-* Contribute to impactful projects
-* Continue growing as an AI/ML Engineer
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoddetiLokesh&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoddetiLokesh&layout=compact&hide_border=true" height="170"/>
-</p>
+* Building real-world AI/ML projects
+* Strengthening Machine Learning fundamentals
+* Developing practical Deep Learning applications
+* Learning NLP and LLM technologies
+* Building RAG-based applications
+* Improving Python, SQL, and problem-solving skills
+* Continuously learning and contributing to impactful projects
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Activity
+
+I use GitHub to build projects, practice programming, and document my learning journey in AI/ML.
+
+* 🐍 Python projects
+* 📊 SQL & Data Analysis
+* 🤖 Machine Learning
+* 🧠 Deep Learning & NLP
+* ✨ Generative AI & LLM projects
+* 🚀 Continuous project development
+
+---
+
+## 🌐 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/lokeshboddeti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/BoddetiLokesh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### 💡 Learn → Build → Share → Improve → Become an AI/ML Engineer 🚀
 
-I'm continuously learning, building, and improving — one project at a time.
+Thanks for visiting my profile! ⭐
+
+Feel free to explore my repositories and connect with me.
+
