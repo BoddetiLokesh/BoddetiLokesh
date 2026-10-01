@@ -7,7 +7,7 @@ I’m a Computer Science & Engineering graduate focused on building practical sk
 I enjoy turning data and ideas into practical solutions and continuously improve my skills through **hands-on projects, problem solving, and consistent learning**.
 
 ---
-
+ 
 ## 🧠 About Me
 
 * 🎓 Computer Science & Engineering Graduate
